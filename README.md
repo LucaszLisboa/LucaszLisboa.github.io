@@ -1,4 +1,3 @@
-# LucaszLisboa.github.io
 
 <p align="center"><a href="https://wowchemy.com/hugo-themes/" target="_blank" rel="noopener"><img src="https://wowchemy.com/media/sharing.png" alt="Wowchemy Website Builder"></a></p>
 
