@@ -1,4 +1,3 @@
-
 <p align="center"><a href="https://wowchemy.com/hugo-themes/" target="_blank" rel="noopener"><img src="https://wowchemy.com/media/sharing.png" alt="Wowchemy Website Builder"></a></p>
 
 [![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
