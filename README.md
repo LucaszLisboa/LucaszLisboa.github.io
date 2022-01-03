@@ -10,7 +10,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/wowchemy?label=Follow%20on%20Twitter&style=for-the-badge)](https://twitter.com/wowchemy)
 [![GitHub followers](https://img.shields.io/github/followers/gcushen?label=Follow%20on%20GH&style=for-the-badge)](https://github.com/gcushen)
 
-# [Wowchemy](https://wowchemy.com): the website builder for [Hugo](https://gohugo.io)
+# [Wowchemy](https://wowchemy.com): the website builder for [Lucas](https://gohugo.io)
 
 ### Join 750,000+ Sites. No Code. Easily Create Future-Proof Websites ✏️ 📰 🚀
 
