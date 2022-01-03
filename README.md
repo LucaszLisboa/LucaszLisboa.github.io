@@ -11,5 +11,4 @@
 ### About me
 I'm a technology student, and I plan to work with front-end in the future.
 
-- [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
 
