@@ -77,7 +77,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <table align="center">
     <tr>
         <td align="center">
-            <a href="https://github.com/teteusAraujo">
+            <a href="https://github.com/LucaszLisboa">
                 <img src="https://avatars2.githubusercontent.com/u/60048274?s=460&u=a7f56af7dbe7d6338401d5b256fba528d8f0400b&v=4" width="150px;" alt="Image do Mateus Araújo" />
                 <br />
                 <sub><b>Lucas Lisboa</b></sub>
