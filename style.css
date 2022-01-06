@@ -81,7 +81,7 @@ section .title::after{
     bottom: -8px;
     left: 50%;
     font-size: 20px;
-    color: rgb(20, 130, 220);
+    color: rgb(20, 220, 27);
     padding: 0 5px;
     background: rgb(26, 25, 25);
     transform: translateX(-50%);
@@ -108,7 +108,7 @@ section .title::after{
 
 .navbar.sticky{
     padding: 25px 5px;
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(5, 211, 208, 0.885);
 }
 
 .navbar .max-width{
@@ -145,7 +145,7 @@ section .title::after{
 
 .navbar .menu li a{
     display: block;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-size: 18px;
     font-weight: 500;
     margin-left: 25px;
@@ -153,7 +153,7 @@ section .title::after{
 }
 
 .navbar .menu li a:hover{
-    color: rgb(61, 61, 61);
+    color: rgb(255, 183, 0);
 
 }
 
@@ -235,7 +235,7 @@ section .title::after{
 }
 
 .home .home-content .text-3 span{
-    color: rgb(238, 71, 196);
+    color: rgb(41, 41, 41);
     font-weight: 500;
 }
 
